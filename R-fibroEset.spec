@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.4.6
-Release:          1
+Release:          2
 Summary:          exprSet for Karaman et al. (2003) fibroblasts data
 Group:            Sciences/Mathematics
 License:          LGPL
